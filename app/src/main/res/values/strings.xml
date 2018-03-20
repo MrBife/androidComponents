@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">userClient</string>
+    <string name="eu_sou_um_alertdialog">Alert test!</string>
+    <string name="eu_funciono">Hellow Wourld :D</string>
+    <string name="alertdialog">Botao Alerta</string>
+    <string name="ok">ok</string>
+    <string name="fechei">fechou</string>
+    <string name="alertdialog_com_itens">AlertDialog com Itens</string>
+    <string name="eu_sou_um_alert_com_itens">Eu sou um alert com itens</string>
+    <string name="progress_dialog">Eu sou um ProgressDialog</string>
+    <string name="aguarde_um_momento">Aguarde um momento</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="dialog_personalizado">DialogPersonalizado</string>
+    <string name="personalizado">personalizado</string>
+    <string name="eu_sou_um_dialog_persinalizado">dialogPersonalizado</string>
+</resources>
